@@ -1,0 +1,5 @@
+<svg id="Notifications" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Oval" d="M0,10H12V6A6,6,0,0,0,0,6Z" transform="translate(6 7)" fill="none" stroke="#363837" stroke-miterlimit="10" stroke-width="1"/>
+  <rect id="Rectangle" width="2" height="1" transform="translate(11 5)" fill="none" stroke="#363837" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+  <path id="Rectangle_Copy" data-name="Rectangle Copy" d="M0,.5H10" transform="translate(7 18.5)" fill="none" stroke="#363837" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+</svg>
