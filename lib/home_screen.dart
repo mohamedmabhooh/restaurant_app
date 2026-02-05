@@ -18,7 +18,7 @@ class _home_screenState extends State<home_screen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.white,
+      backgroundColor: Colors.grey[100],
       body: list_screen[index],
      bottomNavigationBar: Padding(
        padding: const EdgeInsets.only(bottom: 30),
